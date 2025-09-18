@@ -5,7 +5,7 @@ Welcome to the Canada Computers Tools documentation and issue tracking repositor
 ## 📋 Instructions & Documentation
 
 ### Main Instructions
-📄 **[Instructions Canada Computers Tools.pdf](Instructions-Canada-Computers-Tools.pdf)** - Complete guide and instructions for using the Canada Computers Tools suite.
+📄 **[Instructions Canada Computers Tools.docx](Instructions-Canada-Computers-Tools.docx)** - Complete guide and instructions for using the Canada Computers Tools suite.
 
 ## 🛠 Tools Available
 
@@ -26,7 +26,7 @@ We have two types of issue templates available:
 
 ## 🚀 Getting Started
 
-1. Review the [Instructions PDF](Instructions-Canada-Computers-Tools.pdf) for detailed setup and usage
+1. Review the [Instructions Document](Instructions-Canada-Computers-Tools.docx) for detailed setup and usage
 2. Report any issues using our structured templates
 3. Submit feature suggestions to help improve the tools
 
