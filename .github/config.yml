@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Bug Report
+    url: https://github.com/Dawnbrightsu/IssuesCanadaComputersTools/issues
+    about: Please report bugs here.
